@@ -46,6 +46,3 @@ class Question
   end
 end
 
-p Question.find_by_author_id(1)
-q = Question.find_by_id(1)
-q.author
